@@ -4,20 +4,20 @@ declare(strict_types = 1);
 
 /**
  *
- * This file is part of DarkMatter for PHP.
+ * This file is part of DarkStar for PHP.
  *
  * @license http://opensource.org/licenses/bsd-license.php BSD
  *
  */
-namespace DarkMatter\View\Exception;
+namespace DarkStar\View\Exception;
 
-use DarkMatter\View\Exception as Exception;
+use DarkStar\View\Exception as Exception;
 
 /**
  *
  * The helpers object is not valid.
  *
- * @package DarkMatter.View
+ * @package DarkStar.View
  *
  */
 class InvalidHelpersObject extends Exception

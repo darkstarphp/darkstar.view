@@ -4,18 +4,18 @@ declare(strict_types = 1);
 
 /**
  *
- * This file is part of DarkMatter for PHP.
+ * This file is part of DarkStar for PHP.
  *
  * @license http://opensource.org/licenses/bsd-license.php BSD
  *
  */
-namespace DarkMatter\View;
+namespace DarkStar\View;
 
 /**
  *
  * Pacakge-level exception.
  *
- * @package DarkMatter.View
+ * @package DarkMDarkStartter.View
  *
  */
 class Exception extends \Exception

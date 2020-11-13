@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DarkMatter\\View\\": "src/"
+            "DarkStar\\View\\": "src/"
         }
     }
 }

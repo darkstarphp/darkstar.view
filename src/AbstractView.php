@@ -4,12 +4,12 @@ declare(strict_types = 1);
 
 /**
  *
- * This file is part of DarkMatter for PHP.
+ * This file is part of DarkStar for PHP.
  *
  * @license http://opensource.org/licenses/bsd-license.php BSD
  *
  */
-namespace DarkMatter\View;
+namespace DarkStar\View;
 
 /**
  *
@@ -17,7 +17,7 @@ namespace DarkMatter\View;
  * abstract so that the extended "real" View class does not have access to the
  * private support properties herein.
  *
- * @package DarkMatter.View
+ * @package DarkStar.View
  *
  */
 abstract class AbstractView
